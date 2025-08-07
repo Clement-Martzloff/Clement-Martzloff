@@ -1,16 +1,14 @@
-## Hi there 👋
+<pre align="center">
+  Hi there, I’m Clément 👋
+  
+  🔥 Full Stack TypeScript Developer with 7+ years of experience
+  ✨ Next.js, React.js, Node.js, Typescript, GraphQL ...
+  📧 cmrtzlff@gmail.com
 
-<!--
-**Clement-Martzloff/Clement-Martzloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🏆 Achievements:
+  <a href="https://r-blog-chi.vercel.app/fr-FR" target="blank">Personal Website</a> (production)
+  Minute.md (production)
+  
+  🌐 Social:
+  <a href="https://www.linkedin.com/in/cmartzloff" target="blank">Linkedin</a>
+</pre>
